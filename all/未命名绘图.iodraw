@@ -64,9 +64,9 @@
         <mxCell id="AXFpLPKJDt259QygLWKU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXFpLPKJDt259QygLWKU-44" target="AXFpLPKJDt259QygLWKU-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AXFpLPKJDt259QygLWKU-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXFpLPKJDt259QygLWKU-49">
+        <mxCell id="AXFpLPKJDt259QygLWKU-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXFpLPKJDt259QygLWKU-49">
           <mxGeometry x="-0.26" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指标超阈值？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
