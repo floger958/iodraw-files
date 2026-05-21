@@ -14,7 +14,7 @@
           <mxGeometry x="315" y="1216" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-37" value="校验通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="319" y="1300" width="147" height="82" as="geometry" />
+          <mxGeometry x="319" y="1300" width="147" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-38" value="执行锁车/解锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="329" y="1430" width="134" height="49" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="450" y="1640" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-41" value="错误次数&gt;=3？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="509" y="1302" width="161" height="80" as="geometry" />
+          <mxGeometry x="509" y="1302" width="151" height="58" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-42" target="OCMa-qRRX8dFE2xPWC0l-40">
           <mxGeometry relative="1" as="geometry" />
