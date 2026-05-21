@@ -26,7 +26,7 @@
           <mxGeometry x="437" y="1907" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-41" value="错误次数&gt;=3？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1350" width="177" height="177" as="geometry" />
+          <mxGeometry x="509" y="1302" width="177" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-42" value="触发防盗报警&#xa;蜂鸣器+APP推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="1540" width="176" height="67" as="geometry" />
