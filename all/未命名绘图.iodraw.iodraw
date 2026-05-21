@@ -23,7 +23,7 @@
           <mxGeometry x="291.88" y="260" width="141.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-5" value="执行锁车/解锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="303.13" y="500" width="130" height="49" as="geometry" />
+          <mxGeometry x="297.51" y="490" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-6" value="上报锁状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="580" width="140" height="49" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="290.75" y="330" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-9" value="触发防盗报警&#xa;蜂鸣器+APP推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="410" width="130" height="46" as="geometry" />
+          <mxGeometry x="295.75" y="410" width="130" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-1" target="OCMa-qRRX8dFE2xPWC0l-2">
           <mxGeometry relative="1" as="geometry">
@@ -46,6 +46,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-4" target="OCMa-qRRX8dFE2xPWC0l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-9" target="OCMa-qRRX8dFE2xPWC0l-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
