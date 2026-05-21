@@ -52,10 +52,16 @@
             <mxPoint x="1" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AXFpLPKJDt259QygLWKU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="AXFpLPKJDt259QygLWKU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AXFpLPKJDt259QygLWKU-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="773.75" y="600" as="targetPoint" />
+            <mxPoint x="770" y="590" as="targetPoint" />
             <mxPoint x="534.9999999999995" y="360.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="760" y="360" />
+              <mxPoint x="760" y="453" />
+              <mxPoint x="561" y="453" />
+              <mxPoint x="561" y="585" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-4" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;光照&amp;lt;1000lux?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
