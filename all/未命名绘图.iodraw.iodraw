@@ -17,7 +17,7 @@
           <mxGeometry x="319" y="1300" width="147" height="82" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-38" value="执行锁车/解锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293" y="1590" width="164" height="49" as="geometry" />
+          <mxGeometry x="315" y="1414" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-39" value="上报锁状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="302" y="1799" width="140" height="49" as="geometry" />
