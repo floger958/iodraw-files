@@ -8,10 +8,10 @@
           <mxGeometry x="436.5" y="1020" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-35" value="接收输入&#xa;（APP指令）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="407" y="1099" width="151" height="67" as="geometry" />
+          <mxGeometry x="410" y="1099" width="148" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-36" value="MD5加密校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1216" width="140" height="49" as="geometry" />
+          <mxGeometry x="322.5" y="1216" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-37" target="OCMa-qRRX8dFE2xPWC0l-38">
           <mxGeometry relative="1" as="geometry" />
