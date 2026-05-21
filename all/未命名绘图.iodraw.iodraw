@@ -13,6 +13,9 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-2" value="接收输入&#xa;（APP指令）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="110" width="128" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-3" target="OCMa-qRRX8dFE2xPWC0l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-3" value="MD5加密校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="190" width="130" height="50" as="geometry" />
         </mxCell>
