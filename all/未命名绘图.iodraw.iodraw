@@ -23,7 +23,7 @@
           <mxGeometry x="291.88" y="260" width="141.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-5" value="执行锁车/解锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="536" width="164" height="49" as="geometry" />
+          <mxGeometry x="280.5" y="420" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-6" value="上报锁状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="184" y="710" width="140" height="49" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="316.5" y="940" width="88.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-8" value="错误次数&gt;=3？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="293.13" y="260" width="140" height="50" as="geometry" />
+          <mxGeometry x="291.88" y="330" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-9" value="触发防盗报警&#xa;蜂鸣器+APP推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="673" width="176" height="67" as="geometry" />
