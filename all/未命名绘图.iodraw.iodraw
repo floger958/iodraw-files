@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-68" value="统计单位时间震动次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="370" y="310" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-69" target="OCMa-qRRX8dFE2xPWC0l-70">
           <mxGeometry relative="1" as="geometry" />
@@ -72,7 +72,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="650" />
-              <mxPoint x="290" y="900" />
+              <mxPoint x="290" y="840" />
+              <mxPoint x="390" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
