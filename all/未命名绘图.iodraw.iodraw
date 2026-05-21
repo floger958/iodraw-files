@@ -49,6 +49,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="449.5" y="649.5" as="sourcePoint" />
             <mxPoint x="524.5" y="479.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="650" />
+              <mxPoint x="630" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-82" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCMa-qRRX8dFE2xPWC0l-81">
+          <mxGeometry x="0.2061" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-71" value="超过中度阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
