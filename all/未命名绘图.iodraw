@@ -58,6 +58,9 @@
         <mxCell id="AXFpLPKJDt259QygLWKU-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指标超阈值？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AXFpLPKJDt259QygLWKU-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;滑动平均滤波&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="670" width="175" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
