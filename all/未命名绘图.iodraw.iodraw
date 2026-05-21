@@ -14,7 +14,7 @@
           <mxGeometry x="298.5" y="110" width="128" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-3" value="MD5加密校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="210" width="130" height="50" as="geometry" />
+          <mxGeometry x="296.5" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-4" value="校验通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="286" y="360" width="129" height="129" as="geometry" />
