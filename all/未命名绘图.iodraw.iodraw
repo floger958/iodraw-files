@@ -8,7 +8,7 @@
           <mxGeometry x="316.5" y="30" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-2" value="接收输入&#xa;（APP指令）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="287" y="119" width="151" height="67" as="geometry" />
+          <mxGeometry x="298.5" y="119" width="128" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-3" value="MD5加密校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="236" width="155" height="49" as="geometry" />
