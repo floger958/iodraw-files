@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dzXs_wcui5OFLz2iD0sW">
-    <mxGraphModel dx="1181" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="182" y="819" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-7" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316.5" y="927" width="92" height="49" as="geometry" />
+          <mxGeometry x="320" y="927" width="88.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-8" value="错误次数&gt;=3？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="384" y="560" width="177" height="177" as="geometry" />
