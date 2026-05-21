@@ -63,6 +63,11 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-71" target="OCMa-qRRX8dFE2xPWC0l-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-84" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCMa-qRRX8dFE2xPWC0l-83">
+          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-71" value="超过中度阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="650" width="150" height="80" as="geometry" />
         </mxCell>
