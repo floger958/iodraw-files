@@ -10,11 +10,20 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-65" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-66" target="OCMa-qRRX8dFE2xPWC0l-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-66" value="震动传感器触发中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="150" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-67" target="OCMa-qRRX8dFE2xPWC0l-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-67" value="记录震动时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-68" target="OCMa-qRRX8dFE2xPWC0l-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-68" value="统计单位时间震动次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="340" width="160" height="60" as="geometry" />
