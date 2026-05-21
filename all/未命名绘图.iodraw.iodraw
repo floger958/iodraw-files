@@ -13,11 +13,14 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-36" value="MD5加密校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="315" y="1216" width="155" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-37" target="OCMa-qRRX8dFE2xPWC0l-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-37" value="校验通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="319" y="1300" width="147" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-38" value="执行锁车/解锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="329" y="1440" width="134" height="49" as="geometry" />
+          <mxGeometry x="325.5" y="1440" width="134" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-39" target="OCMa-qRRX8dFE2xPWC0l-40">
           <mxGeometry relative="1" as="geometry" />
@@ -59,20 +62,6 @@
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-35" target="OCMa-qRRX8dFE2xPWC0l-36">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-37" target="OCMa-qRRX8dFE2xPWC0l-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="393" y="1400" />
-              <mxPoint x="396" y="1400" />
-              <mxPoint x="396" y="1442" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-58" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCMa-qRRX8dFE2xPWC0l-57">
-          <mxGeometry x="-0.206" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
