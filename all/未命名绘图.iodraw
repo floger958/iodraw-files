@@ -92,6 +92,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="AXFpLPKJDt259QygLWKU-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXFpLPKJDt259QygLWKU-35">
+          <mxGeometry x="-0.0024" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-6" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;光照&amp;lt;10000lux?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358.75" y="545" width="182.5" height="80" as="geometry" />
         </mxCell>
