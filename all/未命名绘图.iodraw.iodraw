@@ -17,7 +17,7 @@
           <mxGeometry x="208" y="350" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-5" value="执行锁车/解锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="624" width="164" height="49" as="geometry" />
+          <mxGeometry x="190.5" y="630" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-6" value="上报锁状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="184" y="710" width="140" height="49" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="316.5" y="940" width="88.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-8" value="错误次数&gt;=3？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="410" y="447" width="177" height="177" as="geometry" />
+          <mxGeometry x="640" y="420" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-9" value="触发防盗报警&#xa;蜂鸣器+APP推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="673" width="176" height="67" as="geometry" />
@@ -60,13 +60,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-6" target="OCMa-qRRX8dFE2xPWC0l-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="252" y="902" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-16" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-4" target="OCMa-qRRX8dFE2xPWC0l-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -77,14 +70,6 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-8" target="OCMa-qRRX8dFE2xPWC0l-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0.98;entryY=0.99;rounded=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-8" target="OCMa-qRRX8dFE2xPWC0l-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="488" y="523" />
-              <mxPoint x="488" y="211" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
