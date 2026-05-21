@@ -56,9 +56,8 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-71" target="OCMa-qRRX8dFE2xPWC0l-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="590" />
-              <mxPoint x="290" y="780" />
-              <mxPoint x="390" y="780" />
+              <mxPoint x="290" y="580" />
+              <mxPoint x="290" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
