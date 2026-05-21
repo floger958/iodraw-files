@@ -31,13 +31,15 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-7" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="316.5" y="940" width="88.5" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="291.8842857142856" y="354.51224489795914" as="sourcePoint" />
-            <mxPoint x="228.47" y="160" as="targetPoint" />
+            <mxPoint x="260" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="89.97" y="354.51" />
-              <mxPoint x="89.97" y="160.51" />
+              <mxPoint x="90" y="354" />
+              <mxPoint x="90" y="130" />
+              <mxPoint x="240" y="130" />
+              <mxPoint x="240" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
