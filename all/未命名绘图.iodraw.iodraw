@@ -56,9 +56,10 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-71" target="OCMa-qRRX8dFE2xPWC0l-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="450" y="650" />
               <mxPoint x="290" y="650" />
-              <mxPoint x="290" y="840" />
-              <mxPoint x="390" y="840" />
+              <mxPoint x="290" y="780" />
+              <mxPoint x="390" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,10 +72,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-72" value="中度报警蜂鸣器鸣响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="730" width="160" height="40" as="geometry" />
+          <mxGeometry x="370" y="670" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-73" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-71" value="超过中度阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="550" width="150" height="80" as="geometry" />
