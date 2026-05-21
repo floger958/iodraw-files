@@ -4,40 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-65" target="OCMa-qRRX8dFE2xPWC0l-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-65" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-66" target="OCMa-qRRX8dFE2xPWC0l-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-66" value="震动传感器触发中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="150" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-67" target="OCMa-qRRX8dFE2xPWC0l-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-67" value="记录震动时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-68" target="OCMa-qRRX8dFE2xPWC0l-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-68" value="统计单位时间震动次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="310" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-69" target="OCMa-qRRX8dFE2xPWC0l-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-79" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCMa-qRRX8dFE2xPWC0l-78">
-          <mxGeometry x="-0.5926" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-69" target="OCMa-qRRX8dFE2xPWC0l-71">
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OCMa-qRRX8dFE2xPWC0l-71">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524.9999999999995" y="410" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="640" y="410" />
               <mxPoint x="640" y="580" />
@@ -49,25 +18,9 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-69" value="超过严重阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="380" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-70" target="OCMa-qRRX8dFE2xPWC0l-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-70" value="严重报警+APP求救" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="480" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-71" target="OCMa-qRRX8dFE2xPWC0l-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-84" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCMa-qRRX8dFE2xPWC0l-83">
-          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-71" target="OCMa-qRRX8dFE2xPWC0l-73">
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-71">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="770" as="targetPoint" />
             <Array as="points">
               <mxPoint x="290" y="580" />
               <mxPoint x="290" y="770" />
@@ -78,18 +31,6 @@
           <mxGeometry x="0.0667" y="3" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-72" target="OCMa-qRRX8dFE2xPWC0l-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-72" value="中度报警蜂鸣器鸣响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="670" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-73" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-71" value="超过中度阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="550" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
