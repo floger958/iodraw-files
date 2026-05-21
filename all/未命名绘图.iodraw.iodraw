@@ -85,10 +85,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-72" value="中度报警蜂鸣器鸣响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="750" width="160" height="60" as="geometry" />
+          <mxGeometry x="370" y="730" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-73" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-71" value="超过中度阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="610" width="150" height="80" as="geometry" />
