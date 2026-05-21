@@ -87,11 +87,14 @@
         <mxCell id="AXFpLPKJDt259QygLWKU-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MPU6050检测转向&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="880" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AXFpLPKJDt259QygLWKU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXFpLPKJDt259QygLWKU-12" target="AXFpLPKJDt259QygLWKU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-12" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;检测到转向？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358.75" y="990" width="182.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;点亮对应方向灯&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1160" width="170" height="60" as="geometry" />
+          <mxGeometry x="365" y="1120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1310" width="120" height="60" as="geometry" />
