@@ -88,17 +88,6 @@
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-73" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCMa-qRRX8dFE2xPWC0l-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OCMa-qRRX8dFE2xPWC0l-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449.5" y="640" as="sourcePoint" />
-            <mxPoint x="524.5" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="650" />
-              <mxPoint x="630" y="650" />
-              <mxPoint x="630" y="470" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-71" value="超过中度阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="610" width="150" height="80" as="geometry" />
         </mxCell>
