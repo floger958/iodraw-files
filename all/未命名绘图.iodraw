@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dzXs_wcui5OFLz2iD0sW">
-    <mxGraphModel dx="410" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,17 +66,20 @@
         </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXFpLPKJDt259QygLWKU-49">
           <mxGeometry x="-0.26" relative="1" as="geometry">
-            <mxPoint x="-20" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指标超阈值？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AXFpLPKJDt259QygLWKU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXFpLPKJDt259QygLWKU-45" target="AXFpLPKJDt259QygLWKU-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;蜂鸣器预警APP推送&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="690" width="175" height="70" as="geometry" />
+          <mxGeometry x="362.5" y="700" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AXFpLPKJDt259QygLWKU-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MQTT上传数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="790" width="175" height="70" as="geometry" />
+          <mxGeometry x="360" y="810" width="175" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
