@@ -17,7 +17,7 @@
           <mxGeometry x="297.5" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-4" value="校验通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="141.25" height="50" as="geometry" />
+          <mxGeometry x="291.88" y="260" width="141.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-5" value="执行锁车/解锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="536" width="164" height="49" as="geometry" />
