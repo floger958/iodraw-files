@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-42" value="触发防盗报警&#xa;蜂鸣器+APP推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="514" y="1540" width="156" height="50" as="geometry" />
+          <mxGeometry x="509" y="1539.5" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-34" target="OCMa-qRRX8dFE2xPWC0l-35">
           <mxGeometry relative="1" as="geometry">
@@ -58,6 +58,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-35" target="OCMa-qRRX8dFE2xPWC0l-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCMa-qRRX8dFE2xPWC0l-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OCMa-qRRX8dFE2xPWC0l-37" target="OCMa-qRRX8dFE2xPWC0l-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
