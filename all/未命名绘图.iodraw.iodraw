@@ -32,7 +32,7 @@
           <mxGeometry x="316.5" y="940" width="88.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-8" value="错误次数&gt;=3？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="340" width="177" height="177" as="geometry" />
+          <mxGeometry x="280" y="270" width="177" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-9" value="触发防盗报警&#xa;蜂鸣器+APP推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="673" width="176" height="67" as="geometry" />
