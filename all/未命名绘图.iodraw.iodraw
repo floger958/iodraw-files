@@ -29,7 +29,7 @@
           <mxGeometry x="297.51" y="490" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-6" value="上报锁状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="295.75" y="570" width="140" height="49" as="geometry" />
+          <mxGeometry x="293.13" y="630" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OCMa-qRRX8dFE2xPWC0l-7" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="316.5" y="940" width="88.5" height="43" as="geometry" />
